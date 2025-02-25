@@ -1,4 +1,4 @@
-package lab1_221;
+package LAB01;
 
 public class HelloWorld {
 
